@@ -1,1 +1,3 @@
-# Spark_ML_Notebooks
+# IBM Advanced Data Science Specialization
+
+Notes and assignments
